@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # Created by: Finn Kitor
-# Created on: November 26th, 2023
+# Created on: November 28th, 2023
 # this program is a grade program that uses return values.
 # Function for grades
 def calc_mark(level: str) -> int:
